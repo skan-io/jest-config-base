@@ -1,7 +1,7 @@
 {
   "name": "@skan-io/jest-config-base",
   "private": false,
-  "version": "1.0.0",
+  "version": "0.0.0-semantically-released",
   "description": "A base jest configuration for javascript applications",
   "main": "index.js",
   "scripts": {
